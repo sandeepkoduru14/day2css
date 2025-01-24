@@ -1,0 +1,43 @@
+#sandeep
+{
+width: 700px;
+height: 600px;
+background-color: rgb(230, 80, 11);
+margin top: 100px;
+margin bottom: 100px;
+border: 5px dashed black;
+padding: 6%;
+border:
+
+}
+#sandeep1{
+    width: 600px;
+    height: 500px;
+    padding: 5%;
+    background-color: rgb(226, 162, 43);
+    margin top: 55px;
+    margin bottom: 55px;
+    border: 5px dotted black;
+    
+}
+#sandeep2{
+    width: 500px;
+height: 400px;
+background-color: rgb(44, 11, 230);
+margin-top: 30px;
+margin-bottom: 30px;
+border: 5px dashed rgb(red, green, blue);
+padding: 4%;
+       
+}
+#sandeep3{
+
+    width: 380px;
+    height: 300px;
+    padding: 3%;
+    background-color: rgba(43, 226, 43, 0.856);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 5px dotted rgb(red, green, blue);
+
+}
